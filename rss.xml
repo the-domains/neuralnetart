@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Neural Net Art]]></title>
         <description><![CDATA[Neural Net Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neuralnetart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 17:35:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 18:58:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neuralnetart/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/487d0f0c-d427-4f59-a704-6c2d6b030598.jpg">]]></description>
+            <link>https://thegrid.ai/neuralnetart/b9f57393-8061-4d9b-afd4-cef3a4e3511e/index.html</link>
+            <guid isPermaLink="false">b9f57393-8061-4d9b-afd4-cef3a4e3511e</guid>
+            <pubDate>Sun, 21 Feb 2016 18:58:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa9e88c-3813-4969-b6d8-8478c907f349.jpg">]]></description>
-            <link>undefined9c997f2e-8fa2-4a3f-8ef4-b8a9c6d9af8b/index.html</link>
+            <link>https://thegrid.ai/neuralnetart/9c997f2e-8fa2-4a3f-8ef4-b8a9c6d9af8b/index.html</link>
             <guid isPermaLink="false">9c997f2e-8fa2-4a3f-8ef4-b8a9c6d9af8b</guid>
             <pubDate>Sun, 21 Feb 2016 17:35:12 GMT</pubDate>
         </item>

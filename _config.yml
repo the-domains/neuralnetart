@@ -1,0 +1,28 @@
+name: Neural Net Art
+favicon: null
+layout_spectrum: 0.7952274596318603
+typography_spectrum: 0.45350787485949695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1454524495638907
+  lightness: 0.8754228069446981
+  saturation: 0.44378719571977854
+  rhythmicContrast: 0.5570160546340048
+purpose: []
